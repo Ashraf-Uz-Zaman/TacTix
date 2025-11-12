@@ -59,5 +59,5 @@ lib/
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/tictax.git
+   git clone https://github.com/Ashraf-Uz-Zaman/TacTix.git
    cd tactix
