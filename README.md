@@ -60,4 +60,4 @@ lib/
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/tictax.git
-   cd note_ninja
+   cd tactix
