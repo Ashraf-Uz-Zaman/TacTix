@@ -1,4 +1,4 @@
-# TicTax
+# TacTix
 
 A classic Tic-Tac-Toe game built with Flutter, designed as a case study in building scalable, maintainable, and responsive applications using professional-grade architecture.
 The app features two game modes (Player vs. Player and Player vs. AI), a fully responsive, theme-aware UI, and smooth, polished animations.
